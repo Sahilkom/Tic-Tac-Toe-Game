@@ -16,7 +16,7 @@ export default function GameBoard({ onSelectSquare, board }) {
             ))}
           </ol>
         </li>
-      ))}
+      ))} 
     </ol>
   );
 }
